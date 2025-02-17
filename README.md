@@ -1,1 +1,1 @@
-[Link to project](crud-ims.infinityfreeapp.com)
+[Link to project](http://crud-ims.infinityfreeapp.com/)
